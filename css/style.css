@@ -226,12 +226,12 @@ footer {
 }
 
 /^ FOOTER */
-.p {
+.vert {
   color: green ;
 }
-.p {
+.jaune {
   color: yellow ;
 }
-.p {
+.bleu {
   color: blue ;
 }

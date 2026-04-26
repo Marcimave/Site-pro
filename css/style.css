@@ -224,3 +224,14 @@ footer {
     margin: 10px 0;
   }
 }
+
+/^ FOOTER */
+.p {
+  color: green ;
+}
+.p {
+  color: yellow ;
+}
+.p {
+  color: blue ;
+}
